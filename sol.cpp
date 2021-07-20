@@ -2,9 +2,6 @@
 
 using namespace std;
 
-const int limit = 1e5;
-vector<int> frequency(limit + 1);
-
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(0);
